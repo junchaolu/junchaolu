@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Junchao's GitHub stats](https://github-readme-stats.vercel.app/api?username=junchaolu)](https://github.com/junchaolu/github-readme-stats)
+[![Junchao's GitHub stats](https://github-readme-stats.vercel.app/api?username=junchaolu)](https://github.com/junchaolu/rmp-portal)
